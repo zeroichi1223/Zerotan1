@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "ja": "こんにちは",
+    "kana": "こんにちは",
+    "romaji": "konnichiwa",
+    "en": "Hello / Good afternoon"
+  },
+  {
+    "id": 2,
+    "ja": "おはようございます",
+    "kana": "おはようございます",
+    "romaji": "ohayou gozaimasu",
+    "en": "Good morning (polite)"
+  },
+  {
+    "id": 3,
+    "ja": "おはよう",
+    "kana": "おはよう",
+    "romaji": "ohayou",
+    "en": "Morning! (casual)"
+  },
+  {
+    "id": 4,
+    "ja": "こんばんは",
+    "kana": "こんばんは",
+    "romaji": "konbanwa",
+    "en": "Good evening"
+  },
+  {
+    "id": 5,
+    "ja": "おやすみなさい",
+    "kana": "おやすみなさい",
+    "romaji": "oyasumi nasai",
+    "en": "Good night (polite)"
+  },
+  {
+    "id": 6,
+    "ja": "おやすみ",
+    "kana": "おやすみ",
+    "romaji": "oyasumi",
+    "en": "Night! (casual)"
+  },
+  {
+    "id": 7,
+    "ja": "はじめまして",
+    "kana": "はじめまして",
+    "romaji": "hajimemashite",
+    "en": "Nice to meet you"
+  },
+  {
+    "id": 8,
+    "ja": "よろしくお願いします",
+    "kana": "よろしくおねがいします",
+    "romaji": "yoroshiku onegaishimasu",
+    "en": "I look forward to working with you"
+  },
+  {
+    "id": 9,
+    "ja": "ありがとうございます",
+    "kana": "ありがとうございます",
+    "romaji": "arigatou gozaimasu",
+    "en": "Thank you (polite)"
+  },
+  {
+    "id": 10,
+    "ja": "ありがとう",
+    "kana": "ありがとう",
+    "romaji": "arigatou",
+    "en": "Thanks"
+  },
+  {
+    "id": 11,
+    "ja": "どうもありがとうございます",
+    "kana": "どうもありがとうございます",
+    "romaji": "doumo arigatou gozaimasu",
+    "en": "Thank you very much"
+  },
+  {
+    "id": 12,
+    "ja": "すみません",
+    "kana": "すみません",
+    "romaji": "sumimasen",
+    "en": "Excuse me / I'm sorry / Thanks"
+  },
+  {
+    "id": 13,
+    "ja": "ごめんなさい",
+    "kana": "ごめんなさい",
+    "romaji": "gomennasai",
+    "en": "I'm sorry"
+  },
+  {
+    "id": 14,
+    "ja": "いってきます",
+    "kana": "いってきます",
+    "romaji": "ittekimasu",
+    "en": "I'm off (leaving home)"
+  },
+  {
+    "id": 15,
+    "ja": "いってらっしゃい",
+    "kana": "いってらっしゃい",
+    "romaji": "itterasshai",
+    "en": "Take care (see you)"
+  },
+  {
+    "id": 16,
+    "ja": "ただいま",
+    "kana": "ただいま",
+    "romaji": "tadaima",
+    "en": "I'm home"
+  },
+  {
+    "id": 17,
+    "ja": "おかえりなさい",
+    "kana": "おかえりなさい",
+    "romaji": "okaerinasai",
+    "en": "Welcome back"
+  },
+  {
+    "id": 18,
+    "ja": "いらっしゃいませ",
+    "kana": "いらっしゃいませ",
+    "romaji": "irasshaimase",
+    "en": "Welcome (store greeting)"
+  },
+  {
+    "id": 19,
+    "ja": "いただきます",
+    "kana": "いただきます",
+    "romaji": "itadakimasu",
+    "en": "Let's eat / Thanks for the meal (before)"
+  },
+  {
+    "id": 20,
+    "ja": "ごちそうさまでした",
+    "kana": "ごちそうさまでした",
+    "romaji": "gochisousama deshita",
+    "en": "Thanks for the meal (after)"
+  },
+  {
+    "id": 21,
+    "ja": "お疲れ様です",
+    "kana": "おつかれさまです",
+    "romaji": "otsukaresama desu",
+    "en": "Good work / Hello (at work)"
+  },
+  {
+    "id": 22,
+    "ja": "お先に失礼します",
+    "kana": "おさきにしつれいします",
+    "romaji": "osaki ni shitsurei shimasu",
+    "en": "Excuse me for leaving first"
+  },
+  {
+    "id": 23,
+    "ja": "久しぶり",
+    "kana": "ひさしぶり",
+    "romaji": "hisashiburi",
+    "en": "Long time no see"
+  },
+  {
+    "id": 24,
+    "ja": "ようこそ",
+    "kana": "ようこそ",
+    "romaji": "youkoso",
+    "en": "Welcome"
+  },
+  {
+    "id": 25,
+    "ja": "はーい",
+    "kana": "はーい",
+    "romaji": "haai",
+    "en": "Yup / Here"
+  },
+  {
+    "id": 26,
+    "ja": "もしもし",
+    "kana": "もしもし",
+    "romaji": "moshi moshi",
+    "en": "Hello (on the phone)"
+  },
+  {
+    "id": 27,
+    "ja": "お世話になります",
+    "kana": "おせわになります",
+    "romaji": "osewa ni narimasu",
+    "en": "Thank you in advance / I appreciate your help"
+  },
+  {
+    "id": 28,
+    "ja": "お元気ですか",
+    "kana": "おげんきですか",
+    "romaji": "ogenki desu ka",
+    "en": "How are you?"
+  },
+  {
+    "id": 29,
+    "ja": "お久しぶりです",
+    "kana": "おひさしぶりです",
+    "romaji": "ohisashiburi desu",
+    "en": "Long time no see (polite)"
+  },
+  {
+    "id": 30,
+    "ja": "よろしくね",
+    "kana": "よろしくね",
+    "romaji": "yoroshiku ne",
+    "en": "Nice to meet you (casual)"
+  }
+]

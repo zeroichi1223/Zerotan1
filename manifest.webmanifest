@@ -1,0 +1,15 @@
+{
+  "name": "コアラ日本語｜あいさつ30",
+  "short_name": "コアラ日本語",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFF9E6",
+  "theme_color": "#FF9800",
+  "icons": [
+    {
+      "src": "assets/koala.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
